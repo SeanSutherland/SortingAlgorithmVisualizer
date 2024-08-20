@@ -1,0 +1,16 @@
+.sorting-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+.bar-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.bar {
+    background-color: #3498db;
+    margin-right: 2px;
+}
